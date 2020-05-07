@@ -10,7 +10,7 @@
 
 ## :rocket: Sobre o desafio
 
-O desafio 02 do GoStack11 da Rocketseat para entendimento dos conceitos de NodeJS, consiste em criar o back-end de uma aplicação que irá permitir a criação, listagem, atualização e remoção dos repositórios, e além disso permitir que os repositórios possam receber "likes". Para a realização do desafio, foi utilizado um template disponibilizado pela própria Rocketseat, que consiste em uma estrutura mínima de código para ser seguida, já contendo também os testes da aplicação.
+O desafio 02 do GoStack11 da **[Rocketseat](http://rocketseat.com.br/)** foi desenvolvido para entendimento dos conceitos de NodeJS. Este desafio consiste em criar o back-end de uma aplicação que irá permitir a criação, listagem, atualização e remoção dos repositórios, e além disso permitir que os repositórios possam receber "likes". Para a realização do desafio, foi utilizado um template disponibilizado pela própria **[Rocketseat](http://rocketseat.com.br/)**, que consiste em uma estrutura mínima de código para ser seguida, já contendo também os testes da aplicação.
 
 O template está disponível na seguinte url: **[Acessar Template](https://github.com/Rocketseat/gostack-template-conceitos-nodejs)**
 
